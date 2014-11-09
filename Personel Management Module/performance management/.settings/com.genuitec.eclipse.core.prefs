@@ -1,0 +1,4 @@
+#Fri Jan 10 16:17:49 CST 2014
+eclipse.preferences.version=1
+validator.Checked=WebRoot/tools/EvaluEmployee/js/jquery-1.8.0.min.js,WebRoot/tools/EvaluEmployee/js/easyui-lang-zh_CN.js,WebRoot/tools/EvaluEmployee/js/jquery.easyui.min.js
+validator.Unchecked=

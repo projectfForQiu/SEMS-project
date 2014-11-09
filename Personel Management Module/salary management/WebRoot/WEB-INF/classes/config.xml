@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Config>
+	<!-- 工具的名称 -->
+	<ToolName>
+		SmCostTool
+	</ToolName>
+
+	<!-- 作者 -->
+	<Author>
+		yuanhuangYang
+	</Author>
+
+	<!-- 版本号 -->
+	<Version>
+		1.0
+	</Version>
+
+	<!-- 需要加载器加载的类(入口类)的全名 -->
+	<EntryClass>
+		com.fy.wetoband.tool.dev.SmCostTool
+	</EntryClass>
+
+	<!-- 描述 -->
+	<Description>
+		This tool is uses for managing the product-type information.
+	</Description>
+	
+	<url>
+		http://www.sina.com.cn
+	</url>
+	
+	<toolType>
+		java web project
+	</toolType>
+</Config>

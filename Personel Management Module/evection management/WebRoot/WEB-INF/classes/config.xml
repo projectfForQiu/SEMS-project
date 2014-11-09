@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Config>
+	<!-- 工具的名称 -->
+	<ToolName>
+		EmployeeLevectionTool
+	</ToolName>
+
+	<!-- 作者 -->
+	<Author>
+		yuanhuangYang
+	</Author>
+
+	<!-- 版本号 -->
+	<Version>
+		1.0
+	</Version>
+
+	<!-- 需要加载器加载的类(入口类)的全名 -->
+	<EntryClass>
+		com.fy.wetoband.tool.dev.EmployeeLevectionTool
+	</EntryClass>
+
+	<!-- 描述 -->
+	<Description>
+		该工具用于管理员工出差记录
+	</Description>
+	
+	<url>
+		http://www.sina.com.cn
+	</url>
+	
+	<toolType>
+		java web project
+	</toolType>
+</Config>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="M_xzg_employee_position_02"
+  id="myeclipse.1389768722819"
+  context-root="/M_xzg_employee_position_02"
+  j2ee-spec="6.0"
+  archive="M_xzg_employee_position_02.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="A_xzg_employee_levection"
+  id="myeclipse.1387357708477"
+  context-root="/EmployeeLevectionTool"
+  j2ee-spec="6.0"
+  archive="A_xzg_employee_levection.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+

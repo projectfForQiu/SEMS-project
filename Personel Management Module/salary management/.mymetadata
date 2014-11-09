@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="T_xzg_sm_cost"
+  id="myeclipse.1387357708477"
+  context-root="/T_xzg_sm_cost"
+  j2ee-spec="6.0"
+  archive="T_xzg_sm_cost.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+

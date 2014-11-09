@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 这是一个例子 -->
+<Config>
+	<!-- 工具的名称 -->
+	<ToolName>
+		A_xzg_employee_post
+	</ToolName>
+
+	<!-- 作者 -->
+	<Author>
+		范家诚
+</Author>
+
+	<!-- 版本号 -->
+	<Version>
+		1.0
+	</Version>
+
+	<!-- 需要加载器加载的类(入口类)的全名 -->
+	<EntryClass>
+		com.fy.wetoband.tool.dev.A_xzg_employee_post
+	</EntryClass>
+
+	<!-- 描述 -->
+	<Description>
+		This tool fill the work MyTool.
+	</Description>
+	
+	<url>
+		http://www.sina.com.cn
+	</url>
+	
+	<toolType>
+		java project
+	</toolType>
+</Config>

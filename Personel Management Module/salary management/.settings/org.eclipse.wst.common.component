@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="T_xzg_sm_cost">
+        <wb-resource deploy-path="/" source-path="/WebRoot"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="/T_xzg_sm_cost"/>
+        <property name="java-output-path" value="/T_xzg_sm_cost/WebRoot/WEB-INF/classes"/>
+    </wb-module>
+</project-modules>
