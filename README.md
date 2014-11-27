@@ -1,7 +1,7 @@
 SEMS-project
 ============
 
-It's the part I am responsibled in SEMS project
+It's the part I am responsibled in SEMS(ERP) project
 
 Please NOTE that the copyright of this document are belong to Sciencgo company.
 It is presented only for the review purpose. 
